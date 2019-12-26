@@ -1,1 +1,6 @@
 image: gitpod/workspace-dotnet
+
+vscode:
+  extensions:
+    - ms-vscode.csharp@1.21.9:4NByVUcknHkm8M71U1BkDQ==
+    - formulahendry.code-runner@0.9.15:WUpvbF4Wg44WiaFa7exZBw==
