@@ -1,6 +1,8 @@
-image: gitpod/workspace-dotnet
+image: gitpod/workspace-dotnet:branch-pull-144
 
 vscode:
   extensions:
     - ms-vscode.csharp@1.21.9:4NByVUcknHkm8M71U1BkDQ==
     - formulahendry.code-runner@0.9.15:WUpvbF4Wg44WiaFa7exZBw==
+    - jchannon.csharpextensions@1.3.1:wF89VZ9isQulTthwVQCRig==
+    - quicktype.quicktype@12.0.46:f45bY/ldS1sS4TJ6ZLBsxA==
